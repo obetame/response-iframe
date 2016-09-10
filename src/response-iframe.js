@@ -48,7 +48,7 @@ function responseIframe(id,url,option){
 		iframe.option.height = "100%";
 		iframe.option.frameborder = "0";
 		iframe.option.sameDomain = false;
-		iframe.option.body = false;
+		iframe.option.body = true;
 	}
 
 	// 开始搭建一个iframe

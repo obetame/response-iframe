@@ -60,7 +60,7 @@ If you have your own iframe tag,you should set `true`.default`false`.
 
 * body:`true` or `false`.
 
-set `body` tag style overflow,if `{body:true}`,body get `overflow-y: hidden;`.
+set `body` tag style overflow,if `{body:true}`,body get `overflow-y: hidden;`.default`true`.
 
 * width:iframe width,default:`100%`.
 
