@@ -1,0 +1,27 @@
+{
+  "name": "response-iframe",
+  "version": "1.0.0",
+  "description": "response iframe",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouyuexie/response-iframe.git"
+  },
+  "keywords": [
+    "response",
+    "iframe"
+  ],
+  "author": "zhouyuexie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouyuexie/response-iframe/issues"
+  },
+  "homepage": "https://github.com/zhouyuexie/response-iframe#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0"
+  }
+}

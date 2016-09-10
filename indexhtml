@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<link href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+	<style type="text/css">
+    body{
+      margin:0;
+      padding:0;
+    }
+  </style>
+</head>
+<body id="root">
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<!-- <iframe id="response"></iframe> -->
+	<div id="response"></div>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+	<h1>555</h1>
+</body>
+<script type="text/javascript" src="src/response-iframe.js"></script>
+<script type="text/javascript">
+	var iframe = responseIframe("#response","https://zhouyuexie.github.io/");
+</script>
+</html>
